@@ -3,7 +3,7 @@
   <p>
     <img src="https://img.shields.io/badge/LangChain-1.2.0-FF6B6B" alt="LangChain">
     <img src="https://img.shields.io/badge/多模态模型-v1.0-4B8BBE" alt="多模态模型">
-    <img src="https://img.shields.io/badge/Python-3.11-3776AB" alt="Python">
+    <img src="https://img.shields.io/badge/Python-3.13-3776AB" alt="Python">
     <img src="https://img.shields.io/badge/SQLite-3.44-003B57" alt="SQLite">
     <img src="https://img.shields.io/badge/AI智能体-v1.0-4CAF50" alt="AI智能体">
   </p>
