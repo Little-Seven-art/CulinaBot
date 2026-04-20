@@ -1,7 +1,7 @@
 <div align="center">
   <h1>CulinaBot —— AI 私厨管家智能体</h1>
   <p>
-    <img src="https://img.shields.io/badge/LangChain-0.2.0-FF6B6B" alt="LangChain">
+    <img src="https://img.shields.io/badge/LangChain-1.2.0-FF6B6B" alt="LangChain">
     <img src="https://img.shields.io/badge/多模态模型-v1.0-4B8BBE" alt="多模态模型">
     <img src="https://img.shields.io/badge/Python-3.11-3776AB" alt="Python">
     <img src="https://img.shields.io/badge/SQLite-3.44-003B57" alt="SQLite">
