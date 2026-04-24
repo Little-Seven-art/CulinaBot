@@ -22,11 +22,7 @@ model = init_chat_model(
 # 定义工具
 web_search = TavilySearch(
     max_results=5,
-    topic="general",
-    search_depth="basic",  # 如果需要指定搜索深度
-    time_range=None,  # 如果需要指定时间范围，可以是 "day", "week", "month", "year" 或 None
-    include_domains=[],
-    exclude_domains=[]
+    topic="general"
 )
 
 # 连接sqlite
